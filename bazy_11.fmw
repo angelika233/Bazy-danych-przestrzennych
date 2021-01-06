@@ -2,9 +2,9 @@
 #! <WORKSPACE
 #    Command-line to run this workspace:
 #        "C:\Program Files\FME\fme.exe" C:\Users\angel\Desktop\bazy_11.fmw
-#              --adres_email ""
-#              --haslo "********"
-#              --adres_email_klienta "sloneczniki897@gmail.com"
+#              --adres_email " "
+#              --haslo " "
+#              --adres_email_klienta " "
 #              --nazwa_powiatu "powiat radomski"
 #              --max_pokrycie_chmurami "10"
 #              --data_pocz "20201108"
